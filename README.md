@@ -1,4 +1,4 @@
-👋 Hi, I'm @Ded-Goit
+👋 Hi, I'm @DED-Goit
 
 - 👀 I'm interested in everything that interests me
 - 🌱 I'm currently learning to be a full-stack developer...
